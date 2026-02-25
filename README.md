@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development environ
 1. Clone the repository
 
    ```
-   git clone https://github.com/curedbylethe/todolistapp-react-native.git
+   git clone https://github.com/jordanramos0099/Todolistapp-react-native-master.git
    ```
 2. Install dependencies
 
